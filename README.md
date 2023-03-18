@@ -86,16 +86,16 @@
 </div>
 <br>
 <p align="center" >
-  <a href="https://www.linkedin.com/in/lypeolivers/">
+  <a href="https://www.linkedin.com/in/lypeolivers/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a  href="https://www.instagram.com/lypeolivers/">
+  <a  href="https://www.instagram.com/lypeolivers/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a  href="https://www.twitter.com/lypeolivers/">
+  <a  href="https://www.twitter.com/lypeolivers/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-   <a href="https://www.discord.com/users/266815389068034049/">
+   <a href="https://www.discord.com/users/266815389068034049/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>

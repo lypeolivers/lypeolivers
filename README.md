@@ -42,7 +42,7 @@
  <br>
 
 
-<div align="center"><em>Front-end</em></div>
+<div align="center"><em>Back-end</em></div>
  <div align="center">
        <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />

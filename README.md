@@ -4,7 +4,7 @@
 
 # Hi , i'm Lype 👋
 
-🙋A Mid-level Developer from Brazil, based in São Paulo. I'm currently working at :computer: _[Kenzie Academy Brasil](https://kenzie.com.br/)_ [<img src="https://kenzie.com.br/images/footer-logo.svg" height="30em" align="center" alt="EdgePrim" title="Kenzie" style="background-color: #00356b; padding: 4px; border-radius: 4px"/>](https://kenzie.com.br/) in other profile, check here 👉[My instructor profile](https://github.com/lypeolivers-kenzie)👈
+🙋A Mid-level Developer from Brazil, based in João Pessoa. 
 
 
 <br><br>
